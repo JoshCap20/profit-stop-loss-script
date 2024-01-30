@@ -2,7 +2,7 @@
 Simple utility script to calculate the limit close and stop-loss for a trade, given profit target and risk level.
 
 Usage:
-    python forex.py
+    python main.py
 """
 from dataclasses import dataclass
 
